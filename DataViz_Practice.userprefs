@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Data/MonthlyHistory.txt">
+    <Files>
+      <File FileName="Assets/Scripts/LabelItems.js" Line="20" Column="22" />
+      <File FileName="Assets/Data/MonthlyHistory.txt" Line="13" Column="5" />
+      <File FileName="Assets/Scripts/ReadTextData.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
